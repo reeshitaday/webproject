@@ -35,12 +35,12 @@ npm or Yarn
 Clone the repository to your local machine using the following command:
 
 
-git clone https://github.com/prakriti82/reactwebsite
+git clone https://github.com/prakriti82/webproject
 
 Navigate to the project directory:
 
 
-cd reactwebsite
+cd webproject
 
 <a name="installation"></a> #Installation
 To install the required dependencies, run:
